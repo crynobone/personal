@@ -1,0 +1,68 @@
+/**
+ */
+
+body {
+    background: transparent url('../img/bg.png') repeat top left;
+    color: #555;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 80px;
+}
+
+section#left {
+    width: 580px;
+}
+
+section#left header {
+    padding: 0px 3px;
+}
+
+section#left header h1 {
+    font-size: 32px;
+    letter-spacing: -1px;
+    margin: 0;
+    padding: 0;
+    text-shadow: 2px 2px 0px #fff;
+}
+
+section#left header p {
+    margin: 20px 0;
+    text-shadow: 1px 1px 0px #fff;
+}
+
+section#left ul {
+    background: #fff;
+    border: 5px solid #ddd;
+    list-style: none;
+    margin: 0;
+    padding: 0px 0px;
+    -moz-border-radius: 10px
+}
+
+section#left ul li {
+    border-top: 1px solid #ccc;
+    padding: 10px 20px;
+}
+
+section#left ul li:first-child {
+    border-top: none;
+}
+
+section#left ul li a {
+    color: #555;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+section#left ul li > a {
+    display: block;
+    font-weight: bold;
+    float: left;
+}
+
+section#left ul li span {
+    display: block;
+    margin-left: 105px;
+    clear: right;
+}
