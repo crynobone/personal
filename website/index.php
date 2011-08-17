@@ -14,7 +14,7 @@
         </header>
         <ul>
             <li>
-                <a href="http://github.com">Github</a>
+                <a href="http://github.com/crynobone">Github</a>
                 <span>Coding just turn social, check out my commits and projects</span>
             </li>
             <li>
